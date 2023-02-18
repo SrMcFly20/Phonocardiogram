@@ -11,6 +11,6 @@ Con el fin de construir un dispositivo que pueda hacer lectura de los sonidos ca
 
 ![Diagram](https://raw.githubusercontent.com/SrMcFly20/Phonocardiogram/main/3D_Model.png)
 
->Diagrama de Circuito usando Proteus
+>Modelo 3D de placa - Altium Designewr
 
 >Diseño 3D implementado, Dimensiones de placa: (70 x 120 mm)
